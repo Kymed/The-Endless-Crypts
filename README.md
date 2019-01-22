@@ -1,4 +1,4 @@
-This is Alpha Build 1.0
+1.0
 
 Developed By Kyle Meade
 
